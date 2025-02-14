@@ -1,3 +1,4 @@
+![Arquitetura do Microserviço](https://miro.medium.com/v2/resize:fit:640/format:webp/1*2STZmGfuaBZEACgUTTJzeg.png)
 # Microserviço de Envio de E-mails com Amazon SES e RabbitMQ
 
 ## Descrição
